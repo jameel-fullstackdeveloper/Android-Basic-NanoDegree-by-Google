@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.aazarjameeel.projectone.MainActivity">
+
+    <TextView
+        android:text="Lords Cricket Ground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:padding="10dp"
+        android:gravity="center"
+        />
+
+    <ImageView
+        android:src="@drawable/lords"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:text="Lord's Cricket Ground, generally known as Lord's, is a cricket venue in St John's Wood, London. Named after its founder, Thomas Lord, it is owned by Marylebone Cricket Club and is the home of Middlesex ..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:padding="10dp" />
+
+    <TextView
+        android:text="Address: St John's Wood Rd, London NW8 8QN, United Kingdom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:padding="10dp" />
+
+    <TextView
+        android:text="Capacity: 30,000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:padding="10dp" />
+
+
+    <TextView
+        android:text="Website: https://www.lords.org/"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:padding="10dp" />
+
+
+
+
+
+</LinearLayout>

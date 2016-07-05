@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Udacity Book Lisitng App</string>
+    <string name="textsearchbutton">Search</string>
+    <string name="searchhit">Enter book title to search</string>
+   </resources>

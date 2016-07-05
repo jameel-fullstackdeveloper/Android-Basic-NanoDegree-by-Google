@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hyderabad Tour Guide App</string>
+    <!-- Category name for event [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+    <!-- Category name for marriage hall [CHAR LIMIT=20] -->
+    <string name="category_marriagehalls">Marriage Halls</string>
+    <!-- Category name for the restaurant [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+    <!-- Category name for school [CHAR LIMIT=20] -->
+    <string name="category_schools">Schools</string>
+
+
+</resources>

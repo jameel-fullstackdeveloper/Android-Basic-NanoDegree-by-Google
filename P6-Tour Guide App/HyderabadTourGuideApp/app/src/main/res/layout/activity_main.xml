@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/tan_background"
+android:orientation="vertical"
+tools:context="com.example.aazarjameeel.hyderabadtourguideapp.MainActivity">
+
+<TextView
+    android:id="@+id/text_event"
+    style="@style/CategoryStyle"
+    android:background="@color/category_events"
+    android:text="@string/category_events" />
+
+<TextView
+    android:id="@+id/text_marriagehall"
+    style="@style/CategoryStyle"
+    android:background="@color/category_marriagehalls"
+    android:text="@string/category_marriagehalls" />
+
+<TextView
+    android:id="@+id/text_restaurant"
+    style="@style/CategoryStyle"
+    android:background="@color/category_restaurants"
+    android:text="@string/category_restaurants" />
+
+<TextView
+    android:id="@+id/text_school"
+    style="@style/CategoryStyle"
+    android:background="@color/category_schools"
+    android:text="@string/category_schools" />
+
+</LinearLayout>

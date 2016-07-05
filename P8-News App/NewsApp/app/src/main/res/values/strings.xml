@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="heading">Guardian Sports News</string>
+    <string name="clickheading">click heading to read the full news</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for a single list item -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_hallname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hall Name"
+        android:textColor="@android:color/holo_orange_dark"/>
+
+    <TextView
+        android:id="@+id/text_halldescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Hall Description"/>
+
+     <TextView
+            android:id="@+id/text_hallcontact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Hal Contact"
+            android:textColor="@android:color/black"
+            android:textSize="12sp"
+         />
+
+
+</LinearLayout>

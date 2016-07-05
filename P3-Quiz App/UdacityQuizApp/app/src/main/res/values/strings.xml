@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Udacity Quiz App</string>
+    <string name="questionOne">Q1: The Khyber Pass connects Pakistan with?</string>
+    <string name="questionTwo">Q2: Total elected members of Pakistan National Assembly is?</string>
+    <string name="questionThree">Q3: Write the name of Capital of Pakistan?</string>
+    <string name="questionFour">Q4: The total number of provinces in Pakistan is?</string>
+    <string name="questionFive">Q5: The total number of individuals who have received Nishan-e-Haider so far is?</string>
+    <string name="questionSix">Q6: Which one of these are the city of Pakistan?</string>
+    <!-- Answers for Q1 -->
+    <string name="answerOneA">Iran</string>
+    <string name="answerOneB">Afghanistan</string>
+    <string name="answerOneC">India</string>
+    <!-- Answers for Q2 -->
+    <string name="answerTwoA">342</string>
+    <string name="answerTwoB">352</string>
+    <string name="answerTwoC">327</string>
+    <!-- Answers for Q3 -->
+    <string name="answerThree">Allama Iqbal</string>
+    <!-- Answers for Q4 -->
+    <string name="answerFourA">2</string>
+    <string name="answerFourB">4</string>
+    <string name="answerFourC">5</string>
+    <!-- Answers for Q5 -->
+    <string name="answerFiveA">10</string>
+    <string name="answerFiveB">11</string>
+    <string name="answerFiveC">9</string>
+    <!-- Answers for Q6 -->
+    <string name="answerSixA">Hyderabad</string>
+    <string name="answerSixB">Karachi</string>
+    <string name="answerSixC">London</string>
+
+</resources>

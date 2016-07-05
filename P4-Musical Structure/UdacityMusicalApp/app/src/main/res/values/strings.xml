@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udacity Musical App</string>
+    <string name="playlist">Play List</string>
+    <string name="tracks">Tracks</string>
+    <string name="albums">Albums</string>
+    <string name="artist">Artist</string>
+    <string name="home">Back to Home</string>
+
+</resources>

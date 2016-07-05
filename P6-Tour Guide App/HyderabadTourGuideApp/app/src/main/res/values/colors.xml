@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF5350</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#EF5350</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+    <!-- Background color for the event category -->
+    <color name="category_events">#607D8B</color>
+    <!-- Background color for the marriage hall category -->
+    <color name="category_marriagehalls">#1B5E20</color>
+    <!-- Background color for the restaurant category -->
+    <color name="category_restaurants">#01579B</color>
+    <!-- Background color for the school category -->
+    <color name="category_schools">#D50000</color>
+
+</resources>
